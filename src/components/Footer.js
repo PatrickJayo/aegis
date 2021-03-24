@@ -8,7 +8,7 @@ function Footer() {
       <section class="social-media">
         <div class="social-media-wrap">
           <div class="footer-logo">
-            <Link to="/" className="social-logo">
+            <Link to="/aegis/" className="social-logo">
               <img src={'images/aegis.svg'} height={50} alt="aegis-logo" />
               Aegis
             </Link>

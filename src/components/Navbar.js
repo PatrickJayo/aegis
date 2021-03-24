@@ -27,7 +27,7 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="navbar-container">
-          <Link to="/aegis" className="navbar-logo" onClick={closeMobileMenu}>
+          <Link to="/aegis/" className="navbar-logo" onClick={closeMobileMenu}>
             <img src={'images/aegis.svg'} height={40} />
             AEGIS
           </Link>
@@ -36,7 +36,11 @@ function Navbar() {
           </div>
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li className="nav-item">
-              <Link to="/aegis" className="nav-links" onClick={closeMobileMenu}>
+              <Link
+                to="/aegis/"
+                className="nav-links"
+                onClick={closeMobileMenu}
+              >
                 Home
               </Link>
             </li>
