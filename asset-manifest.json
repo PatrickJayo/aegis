@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/aegis/static/css/main.765194e3.chunk.css",
-    "main.js": "/aegis/static/js/main.f19200c2.chunk.js",
-    "main.js.map": "/aegis/static/js/main.f19200c2.chunk.js.map",
+    "main.js": "/aegis/static/js/main.a62eb5f6.chunk.js",
+    "main.js.map": "/aegis/static/js/main.a62eb5f6.chunk.js.map",
     "runtime-main.js": "/aegis/static/js/runtime-main.8fe4ffb9.js",
     "runtime-main.js.map": "/aegis/static/js/runtime-main.8fe4ffb9.js.map",
     "static/js/2.4d1b40c3.chunk.js": "/aegis/static/js/2.4d1b40c3.chunk.js",
     "static/js/2.4d1b40c3.chunk.js.map": "/aegis/static/js/2.4d1b40c3.chunk.js.map",
     "index.html": "/aegis/index.html",
-    "precache-manifest.c26e63b75f78e87f6e017f456c0a5e23.js": "/aegis/precache-manifest.c26e63b75f78e87f6e017f456c0a5e23.js",
+    "precache-manifest.57faa919f5fb9a61cfeed471dd6932b4.js": "/aegis/precache-manifest.57faa919f5fb9a61cfeed471dd6932b4.js",
     "service-worker.js": "/aegis/service-worker.js",
     "static/css/main.765194e3.chunk.css.map": "/aegis/static/css/main.765194e3.chunk.css.map",
     "static/js/2.4d1b40c3.chunk.js.LICENSE.txt": "/aegis/static/js/2.4d1b40c3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8fe4ffb9.js",
     "static/js/2.4d1b40c3.chunk.js",
     "static/css/main.765194e3.chunk.css",
-    "static/js/main.f19200c2.chunk.js"
+    "static/js/main.a62eb5f6.chunk.js"
   ]
 }
