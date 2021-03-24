@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3689acaee3a73d022e2431d99bb64b57",
+    "revision": "725624653b8b0254c23a87da92ae1158",
     "url": "/aegis/index.html"
   },
   {
-    "revision": "c9fb8f4512c0425a166c",
+    "revision": "156b803f32c43eae6481",
     "url": "/aegis/static/css/main.765194e3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aegis/static/js/2.4d1b40c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9fb8f4512c0425a166c",
-    "url": "/aegis/static/js/main.21b3070f.chunk.js"
+    "revision": "156b803f32c43eae6481",
+    "url": "/aegis/static/js/main.f19200c2.chunk.js"
   },
   {
     "revision": "6ce02dbccd10e6d5a043",
