@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aegis/static/css/main.765194e3.chunk.css",
+    "main.js": "/aegis/static/js/main.21b3070f.chunk.js",
+    "main.js.map": "/aegis/static/js/main.21b3070f.chunk.js.map",
+    "runtime-main.js": "/aegis/static/js/runtime-main.8fe4ffb9.js",
+    "runtime-main.js.map": "/aegis/static/js/runtime-main.8fe4ffb9.js.map",
+    "static/js/2.4d1b40c3.chunk.js": "/aegis/static/js/2.4d1b40c3.chunk.js",
+    "static/js/2.4d1b40c3.chunk.js.map": "/aegis/static/js/2.4d1b40c3.chunk.js.map",
+    "index.html": "/aegis/index.html",
+    "precache-manifest.221e78c0550b8dba37bc55d5ab3b96fa.js": "/aegis/precache-manifest.221e78c0550b8dba37bc55d5ab3b96fa.js",
+    "service-worker.js": "/aegis/service-worker.js",
+    "static/css/main.765194e3.chunk.css.map": "/aegis/static/css/main.765194e3.chunk.css.map",
+    "static/js/2.4d1b40c3.chunk.js.LICENSE.txt": "/aegis/static/js/2.4d1b40c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fe4ffb9.js",
+    "static/js/2.4d1b40c3.chunk.js",
+    "static/css/main.765194e3.chunk.css",
+    "static/js/main.21b3070f.chunk.js"
+  ]
+}
